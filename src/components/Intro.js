@@ -6,7 +6,7 @@ const Intro = () => {
       <section id='colorlib-hero' className='js-fullheight' data-section='home'>
         <div className='flexslider js-fullheight'>
           <ul className='slides'>
-            <li style={{ backgroundImage: 'url(images/intro-1.JPG)' }}>
+            <li style={{ backgroundImage: 'url(images/intro-1.JPGgit )' }}>
               <div className='overlay' />
               <div className='container-fluid'>
                 <div className='row'>
