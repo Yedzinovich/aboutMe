@@ -4,6 +4,9 @@ import './App.css';
 import About from './components/About';
 import Intro from './components/Intro';
 import Sidebar from './components/Sidebar';
+import Skills from './components/Skills';
+import Education from './components/Education';
+import Experience from './components/Experience';
 
 const App = () => {
   return (
@@ -14,6 +17,9 @@ const App = () => {
           <Fragment>
             <Intro />
             <About />
+            <Skills />
+            <Education />
+            <Experience />
           </Fragment>
         </div>
       </div>

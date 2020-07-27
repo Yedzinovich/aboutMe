@@ -20,11 +20,9 @@ const About = () => {
                       in Computer Sceince. I am passionate about Software
                       Engineering, and I love designing and creating from
                       scratch, as well as improving existing products. As a
-                      recent graduate, I have developed Desktop, Front-End and
-                      Back-End applications development using various
-                      technologies. I am a self-starter and highly motivated
-                      creative thinkers who also know how to build real-world
-                      products.
+                      recent graduate, I have developed Front-End, Back-End &
+                      Full-Stack applications. I am a self-starter and creative
+                      thinkers who also know how to build real-world products.
                     </p>
                     <p>
                       I'm looking for a job that will put my skills as a
@@ -46,7 +44,7 @@ const About = () => {
             >
               <span className='heading-meta'>What I do?</span>
               <h2 className='colorlib-heading'>
-                Here are some of my expertise
+                Here what I am passionate about
               </h2>
             </div>
           </div>
@@ -57,7 +55,7 @@ const About = () => {
                   <i className='icon-bulb' />
                 </span>
                 <div className='desc'>
-                  <h3>Programming </h3>
+                  <h3>Software Engineering</h3>
                   <p>
                     I have experience building applications using JavaScript,
                     NodeJS, Java, MongoDB, ReactJS, HTML, CSS and more.
@@ -85,10 +83,11 @@ const About = () => {
                   <i className='icon-phone3' />
                 </span>
                 <div className='desc'>
-                  <h3>Experience</h3>
+                  <h3>Computational Linguistics</h3>
                   <p>
-                    .NET Software Developer Intern (Full-Time) at NYC Office of
-                    the Mayor, Software Engineer Intern at Intersection Co.
+                    My first university degree was in linguistics. Fluent in
+                    Russian, English & Belarussain. I would love to learn more
+                    about ML & NLP.
                   </p>
                 </div>
               </div>
