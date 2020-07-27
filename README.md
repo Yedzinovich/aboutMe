@@ -1,2 +1,2 @@
-This project is a personal [portfolio](https://yedzinovich.github.io/portfolio/) that was built with ReactJS & based on Colorlib template. 
+This project is a personal [website](https://yedzinovich.github.io/aboutMe/) that was built with ReactJS & based on Colorlib template. 
 
