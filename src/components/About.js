@@ -87,7 +87,7 @@ const About = () => {
                   <p>
                     My first university degree was related to computational
                     linguistics. I am fluent in Russian, English & Belarussain.
-                    I would love to learn more about ML & NLP in future.
+                    I would love to learn more about ML & NLP in the future.
                   </p>
                 </div>
               </div>
