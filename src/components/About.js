@@ -83,11 +83,11 @@ const About = () => {
                   <i className='icon-phone3' />
                 </span>
                 <div className='desc'>
-                  <h3>Computational Linguistics</h3>
+                  <h3>Languages</h3>
                   <p>
-                    My first university degree was in linguistics. Fluent in
-                    Russian, English & Belarussain. I would love to learn more
-                    about ML & NLP.
+                    My first university degree was related to computational
+                    linguistics. I am fluent in Russian, English & Belarussain.
+                    I would love to learn more about ML & NLP in future.
                   </p>
                 </div>
               </div>
