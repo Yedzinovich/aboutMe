@@ -22,7 +22,7 @@ const About = () => {
                       scratch, as well as improving existing products. As a
                       recent graduate, I have developed Front-End, Back-End &
                       Full-Stack applications. I am a self-starter and creative
-                      thinkers who also know how to build real-world products.
+                      thinkers who also knows how to build real-world products.
                     </p>
                     <p>
                       I'm looking for a job that will put my skills as a
@@ -42,9 +42,9 @@ const About = () => {
               className='col-md-6 col-md-offset-3 col-md-pull-3 animate-box'
               data-animate-effect='fadeInLeft'
             >
-              <span className='heading-meta'>What I do?</span>
+              <span className='heading-meta'>What I do</span>
               <h2 className='colorlib-heading'>
-                Here what I am passionate about
+                Here is what I am passionate about
               </h2>
             </div>
           </div>
